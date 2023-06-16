@@ -1,4 +1,4 @@
 # Link para a visualização do Curriculo
 
-https://gustaosilva.github.io/CurriculoGustavo/
+<a target="_blank">https://gustaosilva.github.io/CurriculoGustavo/</a>
 
